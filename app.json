@@ -2,7 +2,7 @@
   "name": "Enakeun Music",
   "description": "Open Source bot to stream media trough Telegram Voice Chat. Powered by PyTgCalls and Pyrogram",
   "keywords": ["EnakeunMusic", "musicbot", "video-stream", "videochat", "voicechat", "telegram"],
-  "repository": "https://github.com/Kayzyu/EnakeunMusic",
+  "repository": "https://github.com/Skyzu/Enakeun",
   "stack": "container",
   "env": {
     "API_ID": {
